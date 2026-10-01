@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 
-<a href="https://github.com/JoaaoPaulo/github-readme-stats">
+<a href="https://github.com/JoaaoPaulo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaaoPaulo&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/JoaaoPaulo/convoychat">
+<a href="https://github.com/JoaaoPaulo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaaoPaulo&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
